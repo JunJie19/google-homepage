@@ -1,0 +1,2 @@
+I have completed Google page as the assignment given. First of all, i learnt to srcipt in HTML and CSS as basic. HTML is a scripting language that allow user to create webpage. However, It require the support of CSS to organise to layout to become more dynamic.
+Therefore, this is really good beginning which allow to me create a webpage which similar to Google page. 
